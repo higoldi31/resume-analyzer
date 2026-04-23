@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "An AI-powered application that analyzes resumes for ATS compatibility, provides keyword insights, and suggests improvements based on job descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
